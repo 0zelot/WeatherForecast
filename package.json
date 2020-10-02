@@ -1,0 +1,43 @@
+{
+  "name": "weather-forecast",
+  "version": "1.0.0",
+  "description": "Simple website forecast app in React.",
+  "private": false,
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-content-loader": "^5.1.1",
+    "react-dom": "^16.4.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.3",
+    "react-tooltip": "^4.2.10",
+    "xml-js": "^1.6.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "author": "Ozelot",
+  "license": "MIT",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [
+    "weather",
+    "forecast",
+    "react",
+    "react.js"
+  ]
+}

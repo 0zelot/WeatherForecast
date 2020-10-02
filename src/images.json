@@ -1,0 +1,160 @@
+{
+    "clear": {
+        "path": "./assets/images/clear.jpg",
+        "author": "Tahir Shaw"
+    },
+    "mostly_clear": {
+        "path": "./assets/images/mostly_clear.jpg",
+        "author": "Игорь Дудковский"
+    },
+    "sunny": {
+        "path": "../assets/images/sunny.jpg",
+        "author": "eberhard grossgasteige"
+    },
+    "mostly_sunny": {
+        "path": "../assets/images/mostly_sunny.jpg",
+        "author": "Skitterphoto"
+    },
+    "partly_sunny": {
+        "path": "../assets/images/partly_sunny.jpg",
+        "author": "VisionPic .net"
+    },
+    "cloudy": {
+        "path": "../assets/images/cloudy.jpg",
+        "author": "Andrew Beatson"
+    },
+    "mostly_cloudy": {
+        "path": "../assets/images/mostly_cloudy.jpg",
+        "author": "Josh Sorenson"
+    },
+    "partly_cloudy": {
+        "path": "../assets/images/partly_cloudy.jpg",
+        "author": "Felix Mittermeier"
+    },
+    "rain": {
+        "path": "../assets/images/rain.jpg",
+        "author": "Chris Kane"
+    },
+    "rain_showers": {
+        "path": "../assets/images/rain_showers.jpg",
+        "author": "Pedro Figueras"
+    },
+    "light_rain": {
+        "path": "../assets/images/light_rain.jpg",
+        "author": "Bibhukalyan Acharya"
+    },
+    "light_rain_showers": {
+        "path": "../assets/images/light_rain_showers.jpg",
+        "author": "Sitthan Kutty"
+    },
+    "snow": {
+        "path": "../assets/images/snow.jpg",
+        "author": "Magda Ehlers"
+    },
+    "light_snow": {
+        "path": "../assets/images/light_snow.jpg",
+        "author": "eberhard grossgasteiger"
+    },
+    "haze": {
+        "path": "../assets/images/haze.jpg",
+        "author": "Dương Nhân"
+    },
+    "t-storms": {
+        "path": "../assets/images/t-storms.jpg",
+        "author": "木木"
+    },
+    "desert": {
+        "path": "../assets/images/t-storms.jpg",
+        "author": "Oday Hazeem"
+    },
+    "GENERAL": {
+        "1": {
+            "path": "../assets/images/GENERAL/1.jpg",
+            "author": "Kendall Hoopes"
+        },
+        "2": {
+            "path": "../assets/images/GENERAL/2.jpg",
+            "author": "Riccardo Bertolo"
+        },
+        "3": {
+            "path": "../assets/images/GENERAL/3.jpg",
+            "author": "Yaymantri"
+        },
+        "4": {
+            "path": "../assets/images/GENERAL/4.jpg",
+            "author": "Simon Matzinger"
+        },
+        "5": {
+            "path": "../assets/images/GENERAL/5.jpg",
+            "author": "Jonathan Petersson"
+        },
+        "6": {
+            "path": "../assets/images/GENERAL/6.jpg",
+            "author": "icon0.com"
+        },
+        "7": {
+            "path": "../assets/images/GENERAL/7.jpg",
+            "author": "Gareth Davies"
+        },
+        "8": {
+            "path": "../assets/images/GENERAL/8.jpg",
+            "author": "Ray Bilcliff"
+        },
+        "9": {
+            "path": "../assets/images/GENERAL/9.jpg",
+            "author": "Nicole Avagliano"
+        },
+        "10": {
+            "path": "../assets/images/GENERAL/10.jpg",
+            "author": "icon0.com"
+        },
+        "11": {
+            "path": "../assets/images/GENERAL/11.jpg",
+            "author": "Peter de Vink"
+        },
+        "12": {
+            "path": "../assets/images/GENERAL/12.jpg",
+            "author": "Johannes Plenio"
+        },
+        "13": {
+            "path": "../assets/images/GENERAL/13.jpg",
+            "author": "VisionPic .net"
+        },
+        "14": {
+            "path": "../assets/images/GENERAL/14.jpg",
+            "author": "Quang Nguyen Vinh"
+        },
+        "15": {
+            "path": "../assets/images/GENERAL/15.jpg",
+            "author": "Ryan Holloway"
+        },
+        "16": {
+            "path": "../assets/images/GENERAL/16.jpg",
+            "author": "Asad Photo Maldives"
+        },
+        "17": {
+            "path": "../assets/images/GENERAL/17.jpg",
+            "author": "eberhard grossgasteiger"
+        },
+        "18": {
+            "path": "../assets/images/GENERAL/18.jpg",
+            "author": "VisionPic .net"
+        },
+        "19": {
+            "path": "../assets/images/GENERAL/19.jpg",
+            "author": "André Cook"
+        },
+        "20": {
+            "path": "../assets/images/GENERAL/20.jpg",
+            "author": "cmonphotography"
+        },
+        "21": {
+            "path": "../assets/images/GENERAL/21.jpg",
+            "author": "Jaymantri"
+        },
+        "22": {
+            "path": "../assets/images/GENERAL/22.jpg",
+            "author": "Johannes Plenio"
+        }
+    }
+}
