@@ -7,7 +7,7 @@ Simple weather forecast in ReactJS released on the [MIT license](https://choosea
 * Website default is running on port **3000**. Go to `http://YOUR_IP:3000/` and see results.
 
 # Live demo
-You can see website [HERE](http://weather.ozelot.gq).
+You can see website [HERE](http://ozelot.gq/weather).
 
 # Used resources:
 * API weather.service.msn.com
