@@ -1,7 +1,7 @@
 import React from "react";
 import ReactTooltip from 'react-tooltip';
 
-import lang from "../utils/getLanguage.js";
+import lang from "../../utils/getLanguage.js";
 
 
 const Country = (props) => {
@@ -14,8 +14,10 @@ const Country = (props) => {
 
     return (
         <aside>
-            <ReactTooltip />
-            <img src={`https://www.countryflags.io/${flag}/flat/32.png`} alt="Flag" data-tip={title} />
+            <div className="flag">
+                <ReactTooltip />
+                <img src={`https://www.countryflags.io/${flag}/flat/32.png`} alt="Flag" data-tip={title} />
+            </div>
         </aside>
     );
 }

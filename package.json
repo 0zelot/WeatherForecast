@@ -39,5 +39,9 @@
     "forecast",
     "react",
     "react.js"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0zelot/WeatherForecast.git"
+  }
 }

@@ -1,6 +1,8 @@
 import React from "react";
 
-import lang from "../utils/getLanguage.js";
+import GoBack from "../elements/GoBack.jsx";
+
+import lang from "../../utils/getLanguage.js";
  
 const Error = () => {
     document.title = `${lang("error.notfound.title")} | ${lang("head.title")}`;
@@ -10,7 +12,7 @@ const Error = () => {
             <h1>{lang("error.notfound.info")}</h1>
             <p className="information-description">
                 {lang("error.notfound.desc")}<br />
-                <a href="/">{lang("click_here")}</a> {lang("go_back")}
+                <GoBack />
             </p>
         </div>
     )

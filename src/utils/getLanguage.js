@@ -1,4 +1,4 @@
-import language from "../language.json";
+import language from "../config.json";
 
 const lang = (msg) => {
     let message;

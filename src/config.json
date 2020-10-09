@@ -1,5 +1,6 @@
 {
-    "used_lang": "pl",
+    "_comment": "URL must end with a forward slash (/). See: https://github.com/0zelot/WeatherForecast",
+    "url": "http://localhost:3000/",
     "translates": {
         "en": {
             "click_here": "Click here",
