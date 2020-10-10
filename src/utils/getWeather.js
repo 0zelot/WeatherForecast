@@ -2,7 +2,7 @@ import convert from "xml-js";
 
 const getWeather = async (query) => {
     let result;
-    await fetch(`http://weather.service.msn.com/find.aspx?src=outlook&weadegreetype=C&culture=en_US&weasearchstr=${query.toString()}`).then(async response => response.text()).then(async body => {
+    await fetch(`https://weather.service.msn.com/find.aspx?src=outlook&weadegreetype=C&culture=en_US&weasearchstr=${query.toString()}`).then(async response => response.text()).then(async body => {
         if(body) {
             try {
                 result = convert.xml2json(body, {compact: true, spaces: 2});

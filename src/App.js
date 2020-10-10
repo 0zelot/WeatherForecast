@@ -10,6 +10,7 @@ class App extends Component {
 
     render() {
         return (
+            // <BrowserRouter basename="/location">
             <BrowserRouter>
                 <div>
                     <Country />

@@ -5,6 +5,10 @@ const lang = (msg) => {
     const detected = navigator.languages;
     if(detected) {
         let l = detected[0];
+        if(l.includes("-")) {
+            l = l.split("-");
+            l = l[0];
+        }
         if(language.translates[l]) {
             message = language.translates[l][msg];
             if(!msg) {

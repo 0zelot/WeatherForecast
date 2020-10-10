@@ -1,8 +1,9 @@
 {
   "name": "weather-forecast",
+  "homepage": ".",
   "version": "1.0.0",
   "description": "Simple website forecast app in React.",
-  "private": false,
+  "private": true,
   "dependencies": {
     "react": "^16.13.1",
     "react-content-loader": "^5.1.1",
