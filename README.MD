@@ -5,7 +5,7 @@ Simple weather forecast in ReactJS released on the [MIT license](https://choosea
 * Download files and/or put on your server, then install all required dependencies using `npm install`.
 * Run app using `npm start`.
 * Website default is running on port **3000**. Go to `http://YOUR_IP:3000/` and see results.
-* For build to production, use **npm run build**.
+* For build to production, use `npm run build`.
 
 # Live demo
 You can see website [HERE](http://ozelot.gq/weather).
