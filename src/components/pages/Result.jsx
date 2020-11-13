@@ -94,7 +94,7 @@ class Result extends React.Component {
                                                 <span>
                                                     {lang("result.windspeed")}: <span className="information">{current.windspeed}</span><br />
                                                     {lang("result.humidity")}: <span className="information">{current.humidity}%</span><br />
-                                                    {lang("result.feelslike")}: <span className="information">{current.feelslike}%</span><br />
+                                                    {lang("result.feelslike")}: <span className="information">{current.feelslike}°C</span><br />
                                                 </span>
                                             </div>
                                         </div>

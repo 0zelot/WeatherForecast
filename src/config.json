@@ -96,7 +96,7 @@
             "result.day.sunday": "Niedziela",
             "result.windspeed": "Prędkość wiatru",
             "result.humidity": "Wilgotność",
-            "result.feelslike": "Samopoczucie",
+            "result.feelslike": "Odczuwalne",
             "country.img.title": "Język wykryty na podstawie ustawień przeglądarki.",
             "country.img.title.default": "Strona nie wspiera jeszcze twojego języka."
         },
