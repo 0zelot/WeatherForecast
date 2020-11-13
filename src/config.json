@@ -1,6 +1,6 @@
 {
     "_comment": "URL must end with a forward slash (/). See: https://github.com/0zelot/WeatherForecast",
-    "url": "http://localhost:3000/",
+    "url": "https://weather-forecast-reactjs.herokuapp.com/",
     "translates": {
         "en": {
             "click_here": "Click here",
