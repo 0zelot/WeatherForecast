@@ -6,15 +6,13 @@ const locationOptions = {
   
 const getLocation = async () => {
     const {geolocation} = navigator;
-    if(!geolocation) {
-        return "not_supported";
-    }
+    if(!geolocation) return "not_supported";
     try {
         const result = await getPosition(locationOptions);
         return result.coords.latitude + "," + result.coords.longitude;
     } catch(err) {
         return "denied";
-      }
+    }
 }
   
 const getPosition = (options) => {
